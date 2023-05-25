@@ -46,6 +46,7 @@ let obj = {
   c: 3,
 };
 
+
 ```
 
 5. Which of the following values are primitive values? Which are objects? Which are neither?
@@ -81,4 +82,3 @@ console.log(newObj2);       // => { foo: 1, qux: 3 }
 let newObj3 = copyObj(objToCopy, [ 'bar' ]);
 console.log(newObj3);       // => { bar: 2 }
 ```
-
